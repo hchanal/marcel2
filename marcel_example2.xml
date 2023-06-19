@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<marcel>
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029429.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029430.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029431.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029432.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029433.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029434.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029435.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029436.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029437.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029438.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029439.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029440.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029441.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029442.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029443.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029444.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029445.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029446.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029447.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029448.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029449.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029450.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029451.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029452.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029453.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029454.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029455.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029456.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029457.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029458.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029459.root" />
+	<file type="1" name="/disque2/solid/rootFiles/Roff_newTK/S2-tuple_ccube_1029460.root" />
+
+	<file type="2" name="/disque2/solid/saffron_test/saffron2_test/BiPO_Clean2b.root" />
+	<file type="3" name="/disque2/solid/saffron/saffron2/BiPO_Mike3b.root" />
+	<title type="1" name="Roff" />
+	<title type="2" name="BiPO MC (No LL)" />
+	<title type="3" name="BiPO MC" />
+
+	<plot name="eEM1_calibrated"  nBins="10" vMin="0.1" vMax="0.6" />
+	<plot name="eEM2_calibrated"  nBins="10" vMin="0.1" vMax="0.6" />
+	<plot name="AC_E_calibrated" nBins="80" vMin="0" vMax="4" />
+	<plot name="promptEnergy_calibrated" nBins="50" vMin="0" vMax="4" />
+	<plot name="promptCCubeEnergyMostEnergetic_calibrated" nBins="80" vMin="0" vMax="4" />
+	<plot name="promptCCubeEnergyCrown_calibrated" nBins="80" vMin="0" vMax="4" />
+	<plot name="promptCCubeEnergyOutsideCrown_calibrated" nBins="30" vMin="0" vMax="1.5" />
+	<plot name="eCubeAroundAC" nBins="40" vMin="0" vMax="2" />
+
+	<plot name="dotEM1_EM2" nBins="5" vMin="-1" vMax="0" />
+	<plot name="distEM1_EM2" nBins="10" vMin="2" vMax="10" />
+	<plot name="distAC_EM1" nBins="8" vMin="2" vMax="10" />
+	<plot name="distAC_EM2" nBins="9" vMin="1" vMax="10" />
+	<plot name="delx" nBins="11" vMin ="-5" vMax="5" />
+	<plot name="delz" nBins="11" vMin ="-5" vMax="5" />
+	<plot name="delr" nBins="10" vMin ="0" vMax="5" />
+	<plot name="delt" nBins="20" vMin ="100e3" vMax="500e3" />
+
+	<plot name="nCubeAroundAC" nBins="10" vMin ="0" vMax="10" />
+	<plot name="nCubesEM1" nBins="10" vMin ="0" vMax="10" />
+	<plot name="nCubesEM2" nBins="10" vMin ="0" vMax="10" />
+	<plot name="topology" nBins="12" vMin ="0" vMax="12" />
+	<plot name="AC_x" nBins="16" vMin ="0" vMax="15" />
+	<plot name="AC_y" nBins="16" vMin ="0" vMax="15" />
+	<plot name="AC_z" nBins="5" vMin ="0" vMax="50" />
+
+	<directory value="fig1d" />
+	<cut value="BiPonisher<1.5&&delt>120e3&&delt<500e3&&delr<=5&&promptEnergy_calibrated>=1&&promptEnergy_calibrated<=6&&eEM1_calibrated<0.6&&eEM2_calibrated<0.6" />
+</marcel>

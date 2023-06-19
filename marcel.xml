@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<marcel>
+	<treeName value="DefaultReconstruction/nsEsClusCoins" />
+	<file type="1" name="/disque2/solid/saffron/saffron2/S2-tuple_ccube_1029522_new.root" />
+	<file type="2" name="/disque2/solid/saffron/saffron2/mlem.root" />
+	<title type="1" name="Roff" />
+	<title type="2" name="BiPO MC" />
+
+	<plot  name="eEM1"  nBins="100" vMin="0" vMax="100" />
+	<plot  name="eEM2"  nBins="100" vMin="0" vMax="100" />
+	<plot  name="AC_E_calibrated" nBins="100" vMin="0" vMax="10" />
+	<plot  name="promptEnergy_calibrated" nBins="100" vMin="0" vMax="10" />
+	<plot  name="promptEnergy" nBins="100" vMin="0" vMax="10" />
+	<plot  name="promptCCubeEnergyCrown_calibrated" nBins="100" vMin="0" vMax="1.5" />
+	<plot  name="eCubeAroundAC" nBins="100" vMin="0" vMax="2" />
+	<plot  name="delx" nBins="11" vMin ="-5" vMax="5" xLabel="Cubes" />
+	<plot  name="delz" nBins="11" vMin ="-5" vMax="5" hMax="2" />
+
+	<plot  name="nCubeAroundAC" nBins="10" vMin ="0" vMax="10" />
+	<plot  name="nCubesEM1" nBins="10" vMin ="0" vMax="10" />
+	<plot  name="nCubesEM2" nBins="10" vMin ="0" vMax="10" />
+	<plot  name="topology" nBins="12" vMin ="0" vMax="12" />
+
+	<figure value="solidPreliminary.png" />
+
+	<normalize value="true" />
+
+	<directory value="fig2" />
+	<cut value="BiPonisher<1.48&&delt>120e3&&delt<500e3&&delr>=0&&delr<=3&&-2<=delx&&delx<=1&&dely>=-2&&dely<=2&&delz>=-1&&delz<=3&&tNearestNS>20e3" />
+</marcel>
